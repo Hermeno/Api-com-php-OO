@@ -1,0 +1,19 @@
+{
+    "name": "hermi/appi",
+    "description": "criacao de api",
+    "autoload": {
+        "psr-4": {
+            "App\\": "App/"
+        },
+        "files":[
+            "config.php"
+      ]
+    },
+    "authors": [
+        {
+            "name": "herminio Antonio",
+            "email": "herminiomacamo6@gmail.com"
+        }
+    ],
+    "require": {}
+}
